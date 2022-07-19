@@ -9,6 +9,7 @@ public class PracticeTest {
 		
 		public void demo() {
 				Reporter.log("Hello World",true);
+				System.out.println("hi");
 	
 		}
 	}
