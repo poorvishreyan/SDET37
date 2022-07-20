@@ -65,7 +65,7 @@
 </plugins>
 
 </build>
-</project>
+
 
 <profiles>
 <profile>
@@ -88,7 +88,7 @@
 </build>
 
 </profile>
-</profiles>
+
 
 
 <profile>
@@ -111,5 +111,6 @@
 </build>
 
 </profile>
+</profiles>
 
-
+</project>
