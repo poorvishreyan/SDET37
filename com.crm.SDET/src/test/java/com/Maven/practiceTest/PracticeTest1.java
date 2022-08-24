@@ -12,6 +12,8 @@ public class PracticeTest1 {
 		String username = System.getProperty("USERNAME");
 		String password = System.getProperty("PASSWORD");
 		
+		//
+		
 		System.out.println("TYSS====>");
 		System.out.println("url===> "+url);
 		System.out.println("browser====>"+browser);
